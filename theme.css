@@ -170,6 +170,7 @@ textarea { width:80%; }
 
 /*	miniatures
 -----------------------------------------------------------------------------------------------*/
+.thumbnails SPAN, .thumbnails .wrap2 A, .thumbnails LABEL, .thumbnailCategory DIV.illustration {width:auto;}
 
 /*#content ul.thumbnails span.wrap1 { margin: 0 10px; }*/
 #content UL.thumbnails SPAN.wrap2 img { padding: 5px; border: 1px solid #ccc; }
@@ -179,7 +180,7 @@ textarea { width:80%; }
 #content UL.thumbnails LI.thumbCat SPAN.wrap2:hover { border-style: solid; }
 
 #content ul.thumbnails span.thumbLegend {
-/*    height: auto;*/
+    margin: 0 auto;
     padding: 0.5em 0;
 }
 .zero { display: none }

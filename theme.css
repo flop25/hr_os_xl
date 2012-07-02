@@ -195,9 +195,9 @@ textarea { width:80%; }
 /*	Menu
 -----------------------------------------------------------------------------------------------*/
 
-#menubar .button {
-left: 95%;
-position: absolute;
+.pwg-icon-filter {
+left:95%;
+position:absolute;
 }
 
 #menubar { position: relative; z-index: 2; }

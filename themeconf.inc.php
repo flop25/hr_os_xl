@@ -14,6 +14,7 @@ $themeconf = array(
   'mime_icon_dir' => 'themes/hr_os_xl/icon/mimetypes/',
   'local_head'    => 'local_head.tpl',
   'activable'     => true,
+  'colorscheme' => 'clear',
 );
 //// [update check]
 if (!isset($conf['hr_os_xl']))

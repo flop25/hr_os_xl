@@ -3,7 +3,7 @@
 Theme Name: hr_os_xl
 Version: auto
 Description: A theme with an horizontal menu everywhere and a simple modern design
-Theme URI: http://fr.piwigo.org/ext/extension_view.php?eid=504
+Theme URI: http://piwigo.org/ext/extension_view.php?eid=504
 Author: flop25
 Author URI: http://www.planete-flop.fr
 */
